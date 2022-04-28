@@ -27,6 +27,10 @@ There are some demo videos, just be aware that the commands have changed slightl
 
 Just download this code into your Talon user folder somewhere.
 
+## Settings
+
+The `settings.talon` file provides switches for controlling the speed of window move/resize operations, among other things. See the comments in that file for more information.
+
 # Bugs
 
 See https://github.com/codecat555/window-tweak/issues.
