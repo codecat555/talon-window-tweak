@@ -12,7 +12,7 @@ If you change your mind, the '`window revert`' command restores the previous pos
 
 In addition to the four cardinal directions - `North, South, East, West` - and the four ordinal directions - `Northeast (NE), Southeast (SE), Southwest (SW), Northwest (NW)` - we also have '`in`' and '`out`', for moving in toward the center of the screen and out away from the center of the screen, respectively.
 
-Alternatively, you can use the mouse pointer to indicate the distance and direciton of the move or resize operation, e.g. '`window stretch diagonal to pointer`'.
+Alternatively, you can use the mouse pointer to indicate the distance and direction of the move or resize operation, e.g. '`window stretch diagonal to pointer`'.
 
 There are also commands that let you place or size windows more precisely. For example, you can say '`window move east twenty percent`' to move the current window toward the right of the screen by an amount equal to twenty percent of the window size. Or, you can specify the amount in pixels, rather than as a percentage - '`window move east 293 pixels`'.
 
